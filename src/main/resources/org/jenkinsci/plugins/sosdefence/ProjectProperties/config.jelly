@@ -1,0 +1,20 @@
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core" xmlns:f="/lib/form" xmlns:c="/lib/credentials" xmlns:l="/lib/layout">
+
+    <f:entry field="tags" title="${%tags}">
+        <f:expandableTextbox id="tags" value="${instance.tagsAsText}" />
+    </f:entry>
+    <f:entry field="swidTagId" title="${%swidTagId}">
+        <f:textbox id="swidTagId" />
+    </f:entry>
+    <f:entry field="group" title="${%group}">
+        <f:textbox id="group" />
+    </f:entry>
+    <f:entry field="description" title="${%description}">
+        <f:textbox id="description" />
+    </f:entry>
+    <f:entry field="parentId" title="${%parentId}">
+        <f:select id="parentId"/>
+    </f:entry>
+
+</j:jelly>
