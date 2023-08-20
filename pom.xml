@@ -12,19 +12,19 @@
 
     <artifactId>SOSdefence</artifactId>
 
-    <name>OWASP Dependency-Track Plugin</name>
-    <version>5.0.0-SNAPSHOT</version>
+    <name>SOSdefence Plugin</name>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>hpi</packaging>
-    <inceptionYear>2018</inceptionYear>
+    <inceptionYear>2023</inceptionYear>
     <organization>
-        <name>OWASP</name>
-        <url>https://www.owasp.org</url>
+        <name>soshield</name>
+        <url>https://soshield.org</url>
     </organization>
 
     <developers>
         <developer>
-            <name>Ronny Perinke</name>
-            <id>sephirothj</id>
+            <name>Yash Mishra</name>
+            <id>soshield</id>
             <timezone>1</timezone>
         </developer>
     </developers>
