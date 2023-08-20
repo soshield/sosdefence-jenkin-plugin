@@ -436,19 +436,19 @@
     </dependencies>
 
     <scm>
-        <connection>scm:git:git@github.com:jenkinsci/dependency-track-plugin.git</connection>
-        <url>https://github.com/jenkinsci/dependency-track-plugin.git</url>
-        <developerConnection>scm:git:git@github.com:jenkinsci/dependency-track-plugin.git</developerConnection>
+        <connection>scm:git@github.com:soshield/sosdefence-jenkins-plugin.git</connection>
+        <url>https://github.com/soshield/sosdefence-jenkins-plugin.git</url>
+        <developerConnection>scm:git@github.com:soshield/sosdefence-jenkins-plugin.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/jenkinsci/dependency-track-plugin/issues</url>
+        <url>https://github.com/soshield/sosdefence-jenkins-plugin.git/issues</url>
     </issueManagement>
     <ciManagement>
         <system>ci.jenkins.io</system>
-        <url>https://ci.jenkins.io/job/Plugins/job/dependency-track-plugin</url>
+        <url>https://ci.jenkins.io/job/Plugins/job/sosdefence-jenkins-plugin</url>
     </ciManagement>
 
     <repositories>
