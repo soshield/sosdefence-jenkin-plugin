@@ -5,7 +5,7 @@
 [![Plugin Version](https://img.shields.io/jenkins/plugin/v/dependency-track.svg)](https://plugins.jenkins.io/dependency-track/)
 [![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/dependency-track.svg?color=blue)](https://plugins.jenkins.io/dependency-track/)
 [![GitHub open issues](https://img.shields.io/github/issues-raw/sosdefence/dependency-track-plugin)](https://github.com/sosdefence/dependency-track-plugin/issues)
-[![Website](https://img.shields.io/badge/https://sosdefence.org-blue.svg)](https://sosdefence.org/)
+[![Website](https://img.shields.io/badge/https://sosdefence.org-blue.svg)](https://soshid.org/)
 
 # SOSdefence Jenkins Plugin
 
