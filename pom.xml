@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <description>Dependency-Track is an intelligent Software Supply Chain Component Analysis platform that allows organizations to identify and reduce risk from the use of third-party and open source components. This plug-in can publish supported Software Bill-of-Materials (SBOM) formats to Dependency-Track.</description>
-    <url>https://github.com/jenkinsci/dependency-track-plugin</url>
+    <description>SOSdefence is an intelligent Software Supply Chain Component Analysis platform that allows organizations to identify and reduce risk from the use of third-party and open source components. This plug-in can publish supported Software Bill-of-Materials (SBOM) formats to SOSdefence.</description>
+    <url>https://github.com/soshield/sosdefence_jenkins_plugin</url>
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
