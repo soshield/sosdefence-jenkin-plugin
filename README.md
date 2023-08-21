@@ -1,8 +1,3 @@
-[![License](https://img.shields.io/badge/license-apache%20v2-brightgreen.svg)](LICENSE.txt)
-[![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/dependency-track.svg?color=blue)](https://github.com/soshield/sosdefence-jenkin-plugin)
-[![GitHub open issues](https://img.shields.io/github/issues-raw/jenkinsci/dependency-track-plugin)](https://github.com/soshield/sosdefence-jenkin-plugin/issues)
-[![Website](https://img.shields.io/badge/https://-dependencytrack.org-blue.svg)](https://soshield.org/)
-
 # SOSdefence Jenkins Plugin
 
 The [SOSdefence](https://soshield.org/sosdefence.org/) Jenkins plugin aids in publishing [CycloneDX](https://cyclonedx.org/) Software Bill-of-Materials (SBOM) to the SOSdefence platform.
