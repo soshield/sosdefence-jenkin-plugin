@@ -1,6 +1,6 @@
-[![Jenkins Plugin Installs]()](https://github.com/soshield/sosdefence-jenkin-plugin)
-[![GitHub open issues]()](https://github.com/soshield/sosdefence-jenkin-plugin/issues)
-[![Website]()](https://soshield.org)
+[![Jenkins Plugin Installs](https://github.com/soshield/sosdefence-jenkin-plugin)
+[![GitHub open issues](https://github.com/soshield/sosdefence-jenkin-plugin/issues)
+[![Website](https://soshield.org)
 
 # SOSdefence Jenkins Plugin
 
