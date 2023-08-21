@@ -1,11 +1,6 @@
-[![Build Status](https://github.com/sosdefence/dependency-track-plugin/workflows/CI%20build/badge.svg)](https://github.com/sosdefence/dependency-track-plugin/actions?query=workflow%3A%22CI+build%22)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.sosdefence.plugins%3Adependency-track&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.sosdefence.plugins%3Adependency-track)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=org.sosdefence.plugins%3Adependency-track&metric=security_rating)](https://sonarcloud.io/dashboard?id=org.sosdefence.plugins%3Adependency-track)
-[![License](https://img.shields.io/badge/license-so%20shield-brightgreen.svg)](LICENSE.txt)
-[![Plugin Version](https://img.shields.io/jenkins/plugin/v/dependency-track.svg)](https://plugins.jenkins.io/dependency-track/)
-[![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/dependency-track.svg?color=blue)](https://plugins.jenkins.io/dependency-track/)
-[![GitHub open issues](https://img.shields.io/github/issues-raw/sosdefence/dependency-track-plugin)](https://github.com/sosdefence/dependency-track-plugin/issues)
-[![Website](https://img.shields.io/badge/https://sosdefence.org-blue.svg)](https://soshid.org/)
+[![Jenkins Plugin Installs](https://www.jenkins.io/favicon.ico)](https://github.com/soshield/sosdefence-jenkin-plugin)
+[![GitHub open issues](https://github.githubassets.com/pinned-octocat.svg)](https://github.com/soshield/sosdefence-jenkin-plugin/issues)
+[![Website](https://soshield.org/favicon.png)](https://soshield.org)
 
 # SOSdefence Jenkins Plugin
 
@@ -121,10 +116,7 @@ node {
 
 ## Copyright & License
 
-SOSdefence and the SOSdefence Jenkins Plugin are Copyright © Steve Springett. All Rights Reserved.
+SOSdefence and the SOSdefence Jenkins Plugin are Copyright © soshield. All Rights Reserved.
 
 Permission to modify and redistribute is granted under the terms of the SOShield 2.0 license.
 
-## Changes
-Please refer to [CHANGELOG.md](CHANGELOG.md) for a list of changes.
-```
