@@ -1,6 +1,7 @@
-[![Jenkins Plugin Installs](https://github.com/soshield/sosdefence-jenkin-plugin)
-[![GitHub open issues](https://github.com/soshield/sosdefence-jenkin-plugin/issues)
-[![Website](https://soshield.org)
+[![License](https://img.shields.io/badge/license-apache%20v2-brightgreen.svg)](LICENSE.txt)
+[![Jenkins Plugin Installs](https://img.shields.io/jenkins/plugin/i/dependency-track.svg?color=blue)](https://github.com/soshield/sosdefence-jenkin-plugin)
+[![GitHub open issues](https://img.shields.io/github/issues-raw/jenkinsci/dependency-track-plugin)](https://github.com/soshield/sosdefence-jenkin-plugin/issues)
+[![Website](https://img.shields.io/badge/https://-dependencytrack.org-blue.svg)](https://soshield.org/)
 
 # SOSdefence Jenkins Plugin
 
